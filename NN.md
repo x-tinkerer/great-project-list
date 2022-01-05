@@ -1,18 +1,15 @@
 # Neural Network Best Projects
 
 ## CMU-Perceptual-Computing-Lab/openpose
-###
-### https://github.com/CMU-Perceptual-Computing-Lab/openpose
-### https://github.com/CMU-Perceptual-Computing-Lab/openpose_train
-### https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin
-
 OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- https://github.com/CMU-Perceptual-Computing-Lab/openpose
+- https://github.com/CMU-Perceptual-Computing-Lab/openpose_train
+- https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin
 
 
 ## geohot/tinygrad
 ### https://github.com/geohot/tinygrad
 For something in between a pytorch and a karpathy/micrograd.
-
 This may not be the best deep learning framework, but it is a deep learning framework.
 
 
@@ -25,13 +22,6 @@ Sandbox for training deep learning networks
 ### https://github.com/huggingface/transformers
 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio.
-
-These models can be applied on:
-
-📝 Text, for tasks like text classification, information extraction, question answering, summarization, translation, text generation, in over 100 languages.
-🖼️ Images, for tasks like image classification, object detection, and segmentation.
-🗣️ Audio, for tasks like speech recognition and audio classification.
-Transformer models can also perform tasks on several modalities combined, such as table question answering, optical character recognition, information extraction from scanned documents, video classification, and visual question answering.
 
 
 ## mozilla/TTS
