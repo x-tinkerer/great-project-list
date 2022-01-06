@@ -80,11 +80,6 @@ Software that can generate photos from paintings, turn horses into zebras, perfo
 ### https://github.com/phillipi/pix2pix
 Image-to-image translation with conditional adversarial nets
 
-
-## eigen
-### https://gitlab.com/libeigen/eigen
-Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
-
 ## FaceDetector
 ### https://github.com/faciallab/FaceDetector
 A re-implementation of mtcnn. Joint training, tutorial and deployment together.
