@@ -15,6 +15,14 @@ IC design and development shoul be faster，simpler and more reliable.
 - https://github.com/T-head-Semi/riscv-aosp
 
 
+## SiFive
+### https://github.com/sifive
+SiFive is transforming the future of compute and defining what comes next.
+- https://github.com/sifive/freedom
+- https://github.com/sifive/sifive-blocks
+- https://github.com/sifive/freedom-e-sdk
+- https://github.com/sifive/freedom-u-sdk
+- https://github.com/sifive/freedom-tools
 
 ## ucb-bar/chipyard
 ### https://github.com/ucb-bar/chipyard
