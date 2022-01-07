@@ -1,5 +1,18 @@
 # The Best GAME and 3D Projects
 
+## tinyrenderer
+### https://github.com/ssloy/tinyrenderer
+
+A brief computer graphics / rendering course.
+- https://github.com/ssloy/tinyrenderer/wiki
+
+**Reference:**
+- DAY 01：[图形学学习建议与环境搭建](https://zhuanlan.zhihu.com/p/344146567)
+- DAY 02：[画一条直线（DDA 算法 & Bresenham’s 算法）](https://zhuanlan.zhihu.com/p/345284076)
+- DAY 03：[画一个三角形（向量叉乘算法 & 重心坐标算法）](https://zhuanlan.zhihu.com/p/348764466)
+- DAY 04：[Z-buffering](https://zhuanlan.zhihu.com/p/350145201)
+
+
 ## godotengine/godot
 ### https://github.com/godotengine/godot
 Godot Engine – Multi-platform 2D and 3D game engine
@@ -8,12 +21,6 @@ Godot Engine – Multi-platform 2D and 3D game engine
 ###  https://github.com/pygame/pygame
 
 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
-
-## tinyrenderer
-### https://github.com/ssloy/tinyrenderer
-
-A brief computer graphics / rendering course.
-- https://github.com/ssloy/tinyrenderer/wiki
 
 
 ## Open3D
